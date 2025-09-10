@@ -8,5 +8,11 @@ namespace probe_nunit
 {
     public class Class1
     {
+        
+
+        public void PassTest()
+        {
+
+        }
     }
 }
