@@ -14,5 +14,10 @@ namespace probe_nunit
         {
 
         }
+        public void FailedTest()
+        {
+
+        }
+
     }
 }
